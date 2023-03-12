@@ -8,8 +8,11 @@ The dataset for this project consists of viewer reviews for specific movies obta
 To use this project, you will need to have Python installed on your machine. You will also need to install the following libraries:
 
 requests
+
 beautifulsoup4
+
 nltk
+
 textblob
 
 # Credits
